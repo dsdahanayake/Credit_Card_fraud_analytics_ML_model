@@ -44,8 +44,23 @@ After Synthetic Minority Oversampling Technique(SMOTE)
 
 ![image](https://user-images.githubusercontent.com/85073848/179575134-1cc4eb1e-dfe4-4891-ba2b-81954690126b.png)
 
+## Rule-based method to detect fraudsters
 
+![image](https://user-images.githubusercontent.com/85073848/179575466-6448bb9f-7a03-498e-b36e-3add584cc97e.png)
 
+## Using ML classification to catch fraudsters
+
+### Logistic regression
+
+![image](https://user-images.githubusercontent.com/85073848/179575994-83edc534-5be9-4f7a-9438-067d046881c5.png)
+
+### Random forest classifier
+
+![image](https://user-images.githubusercontent.com/85073848/179576432-5474f6f7-aa48-45f4-8499-4e4cc8a164f8.png)
+
+### Decision Tree Classifier
+
+![image](https://user-images.githubusercontent.com/85073848/179576567-7164072d-234c-462c-b1ce-2ad5bfe95ef3.png)
 
 
 

@@ -32,5 +32,20 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 ![image](https://user-images.githubusercontent.com/85073848/179574196-df4452f0-bb89-4981-bb0b-13fe380c1864.png)
 
+## Techniques used to manage imbalanced data
+
+- Random Under Sampling(RUS): This reduces the majority class and makes the data balanced.
+- Random Over Sampling(ROS): This generated duplicates of the minority class. Inefficient because of duplicacy.
+- Synthetic Minority Oversampling Technique(SMOTE): Generates fake realistic data to balance out the data.
+
+![image](https://user-images.githubusercontent.com/85073848/179574842-d8d39725-6961-4bd8-9e9e-fe21de7a4d8a.png)
+
+After Synthetic Minority Oversampling Technique(SMOTE)
+
+![image](https://user-images.githubusercontent.com/85073848/179575134-1cc4eb1e-dfe4-4891-ba2b-81954690126b.png)
+
+
+
+
 
 
